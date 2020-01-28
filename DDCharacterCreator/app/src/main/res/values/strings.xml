@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">DnD Character Creator</string>
+
+    <string-array name="spinnerDragonborn">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brass</item>
+        <item>Bronze</item>
+        <item>Copper</item>
+        <item>Gold</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Silver</item>
+        <item>White</item>
+    </string-array>
+
+    <string-array name="spinnerDwarf">
+        <item>Duergar</item>
+        <item>Hill</item>
+        <item>Mountain</item>
+    </string-array>
+
+    <string-array name="spinnerElf">
+        <item>Drow</item>
+        <item>Eladrin</item>
+        <item>High</item>
+        <item>Sea</item>
+        <item>Shadar-kai</item>
+        <item>Wood</item>
+    </string-array>
+
+    <string-array name="spinnerGnome">
+        <item>Deep</item>
+        <item>Forest</item>
+        <item>Rock</item>
+    </string-array>
+
+    <string-array name="spinnerHalfElf">
+        <item>Drow</item>
+        <item>Moon/Sun</item>
+        <item>Wood</item>
+        <item>Aquatic</item>
+    </string-array>
+
+    <string-array name="spinnerHalfling">
+        <item>Ghostwise</item>
+        <item>Lightfoot</item>
+        <item>Stout</item>
+    </string-array>
+
+    <string-array name="spinnerHuman">
+        <item>Variant</item>
+        <item>Mundane</item>
+    </string-array>
+
+    <string-array name="spinnerTiefling">
+        <item>Asmodeus</item>
+        <item>Baalzebul</item>
+        <item>Dispater</item>
+        <item>Fierna</item>
+        <item>Glasya</item>
+        <item>Levistus</item>
+        <item>Mammon</item>
+        <item>Mephistopheles</item>
+        <item>Variant</item>
+        <item>Zariel</item>
+    </string-array>
+
+</resources>
